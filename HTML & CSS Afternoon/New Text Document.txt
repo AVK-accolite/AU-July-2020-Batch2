@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            Mahatma Gandhi
+        </title>
+         <link rel="stylesheet" href="./css/style.css">
+    </head>
+    <body>
+        <div class="container">
+            <div class="sub-container">
+                <img class="img-container" src="lib/profile.jpg">
+            </div>
+            <div class="sub-container">
+                <div class="menu-container">
+                    <label class="menu-label">GANDHI</label>
+                </div>
+            </div>
+        </div>
+        <div class="story-container">
+            <img class="story-image" src="lib/gandhicover.jpg">
+            <h1 class="centered">Mahatma Gandhi</h1>
+        </div>
+        <div class="headline-second">
+            <h2>Introduction</h2>
+        </div>
+        <div class="headline-label-container">
+            <p class="label-style">Mohandas Karamchand Gandhi (2 October 1869 – 30 January 1948) was an Indian lawyer,anti-colonial nationalist, and political ethicist, who employed nonviolent resistance to lead the successful campaign for India's independence from British rule, and in turn inspired movements for civil rights and freedom across the world. The honorific Mahātmā (Sanskrit: "great-souled", "venerable"), first applied to him in 1914 in South Africa, is now used throughout the world.</p>
+        </div>
+        <div class="headline-second">
+            <h2>Principles, practices, and beliefs</h2>
+        </div>
+        <div class="headline-container">
+            <div class="secondary-container">
+                    <div class="some">
+                        <p class="label-style">Gandhi's statements, letters and life have attracted much political and scholarly analysis of his principles, practices and beliefs, including what influenced him. Some writers present him as a paragon of ethical living and pacifism, while others present him as a more complex, contradictory and evolving character influenced by his culture and circumstances</p>
+                    </div>
+            </div>
+            <div class="secondary-container-small">
+                <img class="story-image2" src="./lib/gandhi1.jpg">
+            </div>
+        </div>
+        <div class="headline-container" style="text-align: justify;">
+            <p class="label-style"></p>
+        </div>
+        <div class="headline-container">
+            <div class="horizontal-blocks" style="margin-left: 0px;">
+                <div>
+                    <img src="lib/gandhi2.jpg" class="story-image">                    
+                </div>
+            </div>
+            <div class="horizontal-blocks" >
+                <div>
+                    <img src="lib/gandhi3.jpg" class="story-image">                    
+                </div>
+            </div>
+            <div class="horizontal-blocks" style="margin-right: 0px;">
+                <div>
+                    <img src="lib/gandhi4.jpg" class="story-image">
+                </div>
+            </div>
+        </div>
+       
+        <div class="headline-second">
+            <h2>Other Info</h2>
+        </div>
+        <div class="headline-label-container">
+            <p class="label-style">Gandhi dedicated his life to discovering and pursuing truth, or Satya, and called his movement satyagraha, which means "appeal to, insistence on, or reliance on the Truth".[245] The first formulation of the satyagraha as a political movement and principle occurred in 1920, which he tabled as "Resolution on Non-cooperation" in September that year before a session of the Indian Congress. It was the satyagraha formulation and step, states Dennis Dalton, that deeply resonated with beliefs and culture of his people, embedded him into the popular consciousness, transforming him quickly into Mahatma.</p>
+        </div>
+        <img src="lib/gandhi5.jpg" class="story-container-new">
+    </body>
+</html>
